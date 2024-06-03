@@ -1,39 +1,32 @@
 # Cozy To-Do
 
-Cozy To-Do é uma aplicação simples de lista de tarefas que proporciona um ambiente aconchegante e funcional para anotar e gerenciar suas tarefas diárias. Com backgrounds acolhedores e tranquilizantes, queremos transformar sua experiência de organização em algo agradável e inspirador.
+Este é um projeto de demonstração chamado Cozy To-Do, criado como um teste conceitual para fins de exibição de conhecimentos. Este projeto é uma aplicação simples de lista de tarefas, criada para mostrar habilidades em desenvolvimento web, incluindo front-end, back-end e integração de banco de dados.
 
-Além disso, oferecemos a opção de escutar lofi enquanto você gerencia suas tarefas, criando um espaço ideal para a concentração e a produtividade. Nossa missão é facilitar sua rotina e tornar a gestão de tarefas uma atividade mais leve e prazerosa.
+# Objetivo:
+O objetivo do Cozy To-Do é proporcionar aos usuários um ambiente acolhedor e funcional para anotar e gerenciar suas tarefas diárias. Além disso, o projeto inclui a opção de ouvir uma playlist de lo-fi enquanto gerencia tarefas, criando um ambiente ideal para concentração e produtividade.
 
-## Funcionalidades
+# Funcionalidades:
 
-- Adicionar novas tarefas à lista.
-- Marcar tarefas como concluídas.
-- Excluir tarefas da lista.
+- Adicionar, excluir e marcar tarefas como concluídas.
+- Reprodução contínua de uma playlist de lo-fi no fundo.
+- Interface amigável e responsiva.
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas:
 
-- Node.js: Ambiente de execução JavaScript server-side.
-- Express.js: Framework web para Node.js.
-- MySQL: Banco de dados relacional para armazenar as tarefas.
-- Bootstrap 5: Framework front-end para design responsivo.
-- HTML/CSS: Linguagens de marcação e estilo para a interface do usuário.
-- JavaScript: Linguagem de programação para interatividade do cliente.
+- HTML, CSS e Bootstrap para o front-end.
+- JavaScript para interatividade do cliente.
+- Node.js e Express.js para o back-end.
+- MySQL para o banco de dados.
+- Integração com API do YouTube para reprodução de lo-fi.
 
-## Como Executar o Projeto
+# Como Executar o Projeto:
 
-1. Clone o repositório para sua máquina local:
-`git clone https://github.com/seu-usuario/cozy-todo.git`
+Clone este repositório em sua máquina local.
+Certifique-se de ter o Node.js e o MySQL instalados.
+Configure o banco de dados de acordo com o esquema fornecido.
+Execute npm install para instalar as dependências.
+Inicie o servidor com npm start.
+Acesse a aplicação em seu navegador através do endereço http://localhost:3000.
 
-
-2. Instale as dependências do projeto:
-`npm install`
-
-
-3. Configure o banco de dados MySQL de acordo com as configurações em `config/database.js`.
-
-4. Inicie o servidor:
-`npm start`
-
-
-5. Acesse a aplicação em seu navegador:
-`http://localhost:3000`
+# Aviso:
+Este projeto é apenas um teste conceitual e não deve ser utilizado em produção. Ele foi criado exclusivamente para demonstrar conhecimentos em desenvolvimento web. Algumas funcionalidades podem não estar totalmente implementadas e o código pode não seguir as melhores práticas de produção. Use por sua conta e risco.
