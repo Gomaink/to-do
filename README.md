@@ -37,11 +37,3 @@ Além disso, oferecemos a opção de escutar lofi enquanto você gerencia suas t
 
 5. Acesse a aplicação em seu navegador:
 `http://localhost:3000`
-
-## Autor
-
-[gomaink](https://github.com/gomaink)
-
-## Licença
-
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
