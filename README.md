@@ -21,12 +21,12 @@ O objetivo do Cozy To-Do é proporcionar aos usuários um ambiente acolhedor e f
 
 # Como Executar o Projeto:
 
-Clone este repositório em sua máquina local.
-Certifique-se de ter o Node.js e o MySQL instalados.
-Configure o banco de dados de acordo com o esquema fornecido.
-Execute npm install para instalar as dependências.
-Inicie o servidor com npm start.
-Acesse a aplicação em seu navegador através do endereço http://localhost:3000.
+- Clone este repositório em sua máquina local.
+- Certifique-se de ter o Node.js e o MySQL instalados.
+- Configure o banco de dados de acordo com o esquema fornecido.
+- Execute npm install para instalar as dependências.
+- Inicie o servidor com npm start.
+- Acesse a aplicação em seu navegador através do endereço http://localhost:3000.
 
 # Aviso:
 Este projeto é apenas um teste conceitual e não deve ser utilizado em produção. Ele foi criado exclusivamente para demonstrar conhecimentos em desenvolvimento web. Algumas funcionalidades podem não estar totalmente implementadas e o código pode não seguir as melhores práticas de produção. Use por sua conta e risco.
